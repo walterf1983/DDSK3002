@@ -1,0 +1,18 @@
+	Para Generar diagrama de Clases de Codigo Java con EA:
+		1-Generamos un Proyecto con EA:
+			{Archivo/Nuevo proyecto}
+			Le ponemos un nombre y lo guardamos.(*.eap)
+		2-Vamos al Explorador de Proyectos, si no esta tildado:
+			{ver/Explorador de Proyectos}
+			
+			Eliminamos todas las clases e interfaces ue se crean por defecto.
+			{Seleccionamos la primera co un click, mantemos SHIFT y hasta la ultima, todas seleccionadas SUPR}
+			
+		3-Hacemos click derecho sobre la carpeta Sistema:
+			{Ingenieria de Codigo/Importar directorio de codigo fuente}
+			
+		4-En directorio Raiz elegimos el directorio del proyecto Java y en tipo de Origen elejimos Java.
+		
+		5-Ver clases y Reordenarlas y verificar Relaciones.
+			
+				
