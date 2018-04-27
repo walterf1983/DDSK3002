@@ -1,4 +1,5 @@
 .metadata
+target/
 bin/
 tmp/
 *.tmp
@@ -12,6 +13,9 @@ local.properties
 
 # External tool builders
 .externalToolBuilders/
+
+# Compiled class file
+*.class
 
 # Locally stored "Eclipse launch configurations"
 *.launch
@@ -45,19 +49,3 @@ local.properties
 
 # Code Recommenders
 .recommenders/
-
-# Scala IDE specific (Scala & Java development for Eclipse)
-.cache-main
-.scala_dependencies
-.worksheet
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
